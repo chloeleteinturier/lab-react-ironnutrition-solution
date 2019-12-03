@@ -154,4 +154,4 @@ You made an awesome application, but you have found a little problem in the UX. 
 On the "*Today's food*", add a trash icon to let users removing one of their items.
 
 
-Happy coding! :heart:
+Happy coding! :heart:# lab-react-ironnutrition-solution
